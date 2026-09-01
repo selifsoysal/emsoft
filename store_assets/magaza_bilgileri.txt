@@ -1,0 +1,49 @@
+EMSOFT — PLAY STORE YAYIN PAKETİ
+==================================
+
+BU KLASÖRDEKİ DOSYALAR
+-----------------------
+1) play_store_icon_512.png       -> Yüksek çözünürlüklü uygulama ikonu (512x512)
+2) feature_graphic_1024x500.png  -> Öne çıkan görsel (Feature Graphic)
+3) screenshot_1_giris.png        -> Ekran görüntüsü 1 (1080x2400)
+4) screenshot_2_uye_girisi.png   -> Ekran görüntüsü 2 (1080x2400)
+
+AAB DOSYASI (ayrı klasörde, boyutu büyük olduğu için buraya kopyalanmadı):
+/Users/mac/StudioProjects/emsoft/build/app/outputs/bundle/release/app-release.aab
+
+TEKNİK BİLGİLER (Play Console formlarında sorulacak)
+------------------------------------------------------
+Paket adı (Package name): tr.com.emsoft.app
+Sürüm adı (Version name): 1.0.0
+Sürüm kodu (Version code): 2
+Uygulama adı: Emsoft
+Kategori önerisi: İş (Business)
+İçerik: Reklam yok, uygulama içi satın alma yok (sadece web görünümü)
+
+MAĞAZA LİSTESİ METİNLERİ (TASLAK — istediğiniz gibi düzenleyin)
+-------------------------------------------------------------
+Kısa Açıklama (max 80 karakter):
+Emsoft ile web sitenizi ve emlak ilanlarınızı tek uygulamadan yönetin.
+
+Tam Açıklama:
+Emsoft, emlak ofisleri için geliştirilmiş dijital vitrin ve web sitesi yönetim platformudur. Bu mobil uygulama ile Emsoft üyelik hesabınıza doğrudan mobil cihazınızdan giriş yapabilir, web sitenizi ve emlak ilanlarınızı istediğiniz an, istediğiniz yerden yönetebilirsiniz.
+
+Öne Çıkan Özellikler:
+• Tek tıkla üyelik girişi
+• Web sitenizi ve ilanlarınızı mobil üzerinden takip edin
+• Hızlı ve güvenli bağlantı
+• Sade, kullanıcı dostu arayüz
+
+Emsoft ile dijital vitrininizi güçlendirin, satışlarınızı katlayın.
+
+EKSİK OLAN / SİZİN TAMAMLAMANIZ GEREKENLER
+--------------------------------------------
+[ ] Gizlilik Politikası URL'si (ZORUNLU alan — emsoft.com.tr üzerinde var mı kontrol edin,
+    yoksa isteyin, taslak hazırlayabilirim)
+[ ] Geliştirici iletişim e-postası (Play Console profilinde görünecek)
+[ ] Veri güvenliği formu (Data safety) — uygulama e-posta/şifre ile giriş aldığından
+    "Kişisel bilgiler (e-posta, kimlik bilgileri)" toplandığı beyan edilmeli
+[ ] İçerik derecelendirme anketi — webview içeriği iş/emlak odaklı, muhtemelen "Herkes" (Everyone)
+
+NOT: Yeni bir Play Console geliştirici hesabıysa, Google production'a çıkmadan önce
+en az 12 test kullanıcısıyla 14 günlük kapalı test (closed testing) şartı koşabilir.
